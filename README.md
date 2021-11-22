@@ -2,16 +2,21 @@
 <html>
 <head>
 <meta charset="UTF-8" />
-  <title>申請說明</title>
+
 </head>
 <body>
   <div id="introduction">
     <H1>1.兩百字內的個人簡介</H1>
+    <div><tr>
+      <td>
+      我是許碧曇(ㄊㄢˊ)，
+      </td>
+      </tr></div>
   </div>
   <div id="kind">
     <H1>2.為什麼想成為前端、後端、或全端工程師？</H1>
   </div>
-    <div id="befor">
+    <div id="before">
    <H1>3.為了成為軟體工程師，曾經做過什麼努力？</H1>
   </div>
     <div id="how_time">
